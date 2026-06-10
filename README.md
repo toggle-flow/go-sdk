@@ -1,3 +1,4 @@
+test
 # go-sdk
 
 Go SDK for [ToggleFlow](https://github.com/toggle-flow/ToggleFlow). Zero dependencies — stdlib only.
